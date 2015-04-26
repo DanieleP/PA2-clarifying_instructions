@@ -1,9 +1,9 @@
 # PA2-clarifying_instructions
-Assignment 2: Step by step to understand the instructions
+## Assignment 2: Step by step to understand the instructions
 
 
 Hi everyone, Assignment 2 can be very challenging to be understood. 
-The solution is easier than what it looks, and it's strongly connected with the example given in the instructions. However, I think it's worth spending some time to understand more about the logic behind the function given in the instruction.
+The solution is easier than what it looks, and it's strongly connected with the example given in the instructions. However, I think it's worth spending some time to understand more about the logic behind the functions given in the instruction.
 
 1) makeVector is a function that stores a list of functions. I had no idea it was possible. Here is an easier example of a function that stores functions:
 
