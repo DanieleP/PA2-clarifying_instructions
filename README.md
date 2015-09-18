@@ -69,7 +69,7 @@ Example:
 	setmean <- function(mean) m <<- mean
 	getmean <- function() m
 
-This value "mean", input of seatmean, is supposed to be the mean of the vector x. However it simply stores a value, like in the following example:
+This value "mean", input of setmean, is supposed to be the mean of the vector x. However it simply stores a value, like in the following example:
 
 	> a<- makeVector(c(1,2,3,4))
 	> a$setmean(10)
